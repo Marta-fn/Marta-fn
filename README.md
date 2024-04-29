@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marta Nogueira</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🔭 I’m currently working on [World Clock's](https://github.com/Marta-fn/World-clock)
+- 🔭 I’m currently working on [Rock, Paper, Scissors Game](https://github.com/Marta-fn/rock-paper-scissors)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScrip, Python, C/C++**
 
