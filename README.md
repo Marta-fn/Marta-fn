@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marta Nogueira</h1>
 <h3 align="center">A passionate frontend developer from Portugal</h3>
 
-- 🔭 I’m currently working on [React Weather App](https://github.com/Marta-fn/react-weather-app)
+- 🔭 I’m currently working on [React Dictionary App](https://github.com/Marta-fn/react-dictionary-project)
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScrip, Python, C/C++**
 
