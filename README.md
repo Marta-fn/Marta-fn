@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Most-Loved Pet Project](https://github.com/Marta-fn/most-loved-pet)
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScrip, Python, C/C++**
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **martoocas.fn@gmail.com**
 
